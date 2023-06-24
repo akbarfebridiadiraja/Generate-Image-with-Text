@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Generate Image with Text</string>
+    <string name="title_generate_image">Generate Image</string>
+    <string name="title_profile">Profile</string>
+
+    <string name="phone">No Telepon</string>
+    <string name="welcome">Selamat Datang!</string>
+    <string name="don_have_account">Belum punya akun? Daftar sekarang</string>
+    <string name="hint_phone">Masukkan No Telepon</string>
+    <string name="password">Password</string>
+    <string name="hint_password">Masukkan Password</string>
+    <string name="login">Login</string>
+    <string name="registered">Pendaftaran</string>
+    <string name="already_have_account">Sudah punya akun? Masuk sekarang</string>
+    <string name="phone_required">No Telepon *</string>
+    <string name="name">Nama</string>
+    <string name="password_required">Password *</string>
+    <string name="hint_confirm_password">Konfirmasi Password</string>
+    <string name="confirm_password_required">Konfirmasi Password *</string>
+    <string name="register">Selesaikan Pendaftaran</string>
+    <string name="hint_prompt">Masukkan kata kunci</string>
+    <string name="generate">Generate Gambar</string>
+    <string name="menu">MENU</string>
+    <string name="generate_image_history">Riwayat Generate Image</string>
+    <string name="update_password">Update Password</string>
+    <string name="delete_account">Hapus Akun</string>
+    <string name="hint_old_password">Password Lama</string>
+    <string name="please_input_old_password">Silahkan masukkan password lama</string>
+    <string name="please_input_new_password">Silahkan masukkan password baru</string>
+    <string name="hint_new_password">Password Baru</string>
+    <string name="logout">Keluar</string>
+    <string name="hint_name">Masukkan Nama</string>
+    <string name="title_clear_history">Hapus semua riwayat</string>
+</resources>
